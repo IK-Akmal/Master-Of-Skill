@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Master-Of-Skill
-- 👀 I’m interested in Asp.Net Core, ReactJS, Angular, JS,TypeScript, C#, C++.  
+- 👀 I’m interested in Asp.Net Core, EF Core, ReactJS, Angular, JS,TypeScript, C#, C++.  
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/IE_N_DI
